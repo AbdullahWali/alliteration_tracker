@@ -1,4 +1,5 @@
-#Alliteration Tracker
+Alliteration Tracker
+-----------------------
 
 Created by: Eryn Lyle, 07/12/17
 Tested with files from Folger Digital Texts
