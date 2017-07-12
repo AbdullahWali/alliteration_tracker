@@ -1,0 +1,445 @@
+Play: asyoulikeit
+  Act Number: 2
+m
+t, p
+t, f
+t
+w, c
+b, w
+s, i
+t
+a
+t
+h
+t, b, i
+s, i
+i
+t
+s, a
+i
+b
+h
+t
+t, b, y
+m, a
+h, a
+a, o
+t, b
+t, s, p
+t, a, h
+l
+t, d
+t, b, a
+t
+m
+t, s, o
+f
+t
+t
+a
+c, a
+a
+t, b
+t
+c
+t, o
+w, a
+t, a
+a
+w
+t, i
+f
+t
+c
+a
+h
+h
+a
+t
+w
+s
+c
+t
+t
+a
+t, i
+t, h
+h, b
+h
+a
+t
+m
+m, o
+w, o
+y, w
+a
+w
+t
+y
+m, k
+t
+y, m
+t, a
+w, i
+w
+t, w
+b
+n, s
+h
+h
+t, l
+i
+h, o
+h
+t, b, i
+i
+w
+n
+w, m
+b, a
+t
+t, d
+d, i
+t, m
+b, a
+h
+t
+s, l
+a
+t
+t
+y
+l, a, i
+i
+n, w
+a
+a
+o
+t
+f, s
+t, f
+w
+t
+t, w, i
+t, p
+a
+a
+t, w
+w
+s, l
+t, l
+f
+h, n, l
+s
+a, i
+t, d, m
+m, i
+m, i
+m, a
+a
+t
+i
+b, y, i
+y, i
+t
+a, i
+b, w, a, i
+y, a
+t, s
+t, h
+i
+n, c
+t, a
+a
+t, l
+s
+m
+t, b
+t, i
+t
+t
+t
+n, i
+t
+m, a
+p
+s
+h
+w, i
+b, s, a
+t, a
+t
+h
+a, o, i
+h, t
+t, w
+t, s
+n, a, i
+i
+t, w
+n, o
+i
+j
+m
+s
+y, o, i
+f, g, a
+t, a, y
+i
+w
+m
+f
+m, f
+m
+a
+t
+m
+t
+d
+b, f, h
+n, s, a, o
+w
+m
+h
+t, s, y
+i
+t
+t
+t, w
+w, i
+t
+t
+f
+t
+w, l
+t
+h, c
+h, s
+w
+m
+m
+m, i
+s, a, o
+m
+i
+d, i
+y, c, s
+w
+n, t
+t, m
+t, i
+t, c
+t, a
+h, m, a
+t
+y, t
+t, w
+t, d
+t
+h, t, a, i
+t, m
+h, m, a
+c
+t, l
+w
+h, c
+h, s
+w
+t, i
+i
+i
+i
+t, a
+d
+h, s
+a, i
+c, i
+a
+i
+d, f, i
+m
+h, n
+t, c, a, l
+i
+b, t, f, i
+t
+a
+w, a, i
+t, i
+t, d, b, i
+m, l
+t
+t, b, i
+d, s, a
+t
+t, b, i
+f
+h
+h
+s
+h, w, s
+h
+w
+y
+f, a, i
+m, a
+f, a, i
+h
+a
+q
+h, m
+h, d, a
+l
+i
+t, w, h
+a
+a
+h, r, a
+t, r, a, h
+t, a, h
+t, m
+c, l
+s
+i
+h
+w
+b, a
+t, i, h
+a
+h, a
+w
+f, i
+a
+i
+y
+t, o
+i
+w, a
+f
+t, m, a
+t, m, s
+t, w, p
+h
+n, s, t
+t
+m, i
+t, m, a
+t
+m
+t, w
+w
+m, s
+t
+s, a
+e, a
+t, f
+t, w
+w, o
+t, p
+a
+t
+w, i
+t
+o
+c, i
+s, a
+o
+t
+t, m
+t
+h, i
+h
+t, w
+n, s
+c, o
+t, b
+o
+t, s
+t
+t
+i
+s
+t
+a
+w, a
+y, w
+t, m
+f, a, i
+t, a
+y, s, p
+t, h
+t
+t, i
+t
+b
+a
+e
+a, p
+h, i
+t, i
+h, b
+a
+h, w
+t, m
+f
+f
+a, i
+w, m, a
+l
+w, a
+w
+y, b
+a
+t
+t, p
+w
+a
+m, a
+t, e
+m, p
+a
+a
+t, w, s
+s
+t
+w
+t, m
+o
+q, i
+t
+s, p, a, h
+s, o
+h, w
+h, s
+t
+s, a
+t, e
+t, e, s
+t, s
+t, w
+y, a
+s, g
+b, w
+t
+b
+h
+f, m
+t, h
+f
+n
+t, w
+s
+h
+f, m
+t, h
+t, s
+y, w
+e, a
+l
+t
+t, f, y
+t, m
+t, a
+a
+  Number of Alliterations: 441
+

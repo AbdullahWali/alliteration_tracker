@@ -1,0 +1,708 @@
+Play: hamlet
+  Act Number: 3
+c
+h
+h
+h, d
+b, w
+f
+a
+w
+o
+a
+t, w, o
+a
+t, a, h
+t, a
+t
+m
+t
+m, a
+h
+g
+d
+h, f
+h, a
+s
+b, a, h
+o
+t
+t, b
+h, s
+h, w
+m, i
+y
+w, o
+s
+t
+t
+a
+t
+s
+t, i
+t, m
+h, l
+t, b
+t
+a, o
+t, a, o
+t
+s
+t
+t
+t, d
+t
+d
+w
+t
+l
+t, w
+t
+t, d, l
+t, o
+t
+h, m
+b, w
+a
+t, d
+t
+t, o
+c
+t
+t, o
+a
+t
+n, a
+t, o
+h, d
+t, l
+n, i
+y
+w, s
+t, m
+t
+w, g, p
+h
+y, h
+b, c
+t
+t, i
+t, h
+t, i
+m
+s, o
+i
+t, w
+a, i
+t, i
+b, m
+t
+t, i
+s, i
+a
+n, a, t
+t, h
+f
+h
+t, i
+t, a
+t, s
+n
+w, f, m
+t, m, a
+h
+h
+y, g
+y, a
+y
+y, i
+h, w, m, i
+t, m, a
+s, a, t
+o
+t, s
+t
+t, f, o
+o, q
+a
+t, h
+n, s
+o
+w
+h, w, s, i
+t
+l
+s
+o
+t, d, a
+w
+i
+t, s
+t, o
+h
+h, b
+f, o
+b, d, i
+o
+n
+n
+a
+i
+h, a
+h
+p, i
+h
+s
+m, g
+p, s, i
+t, y, i
+a, o, i
+t, n, s
+t
+t, a, i
+y, a
+t
+t
+t, p
+t
+s, a
+o
+b, n, t
+t
+t, w
+t, o
+f
+a
+t, a
+h, s
+t, a, o
+o
+t
+t, c
+o
+t, o
+h, p
+n, t
+t, o
+s
+t
+m
+h, i
+t, a
+s
+t
+s, o
+t
+t, b
+a
+t, i
+h, t
+t, a
+t, h
+h
+s
+a
+c
+n
+f
+t
+t
+t, l
+t
+t, f
+m, s
+h, f, t
+s, a
+a
+t, a
+w, a
+t, f, a
+t, m, s
+w, i
+h, m, i
+t
+t
+c, o
+t
+t, a
+t
+o
+i
+i
+a
+h
+f
+j, w, a
+t, p, i
+t
+t, i
+h
+i
+h, t
+n, m
+a
+i
+a
+t
+h, m
+m
+i, l
+m
+m
+t
+m
+o
+b, m
+m
+t, m
+t, l
+h, s, o
+t, a
+h, m
+b
+t, s, o
+f, o
+m
+m, i
+t
+t
+t, c
+t, w
+s, a
+n, s, y, t
+y, n, a
+f
+t, a, o, p
+t
+t
+h, o
+m, s
+s
+f, s
+t, d, y, i
+m
+t, f
+a
+i
+m
+s, m, a, i
+l
+g, l
+t, l
+t
+t
+h, a
+b, m
+t, w
+t, m
+b, o
+y
+b, w, d
+t
+v, b
+t
+b
+t, o
+w, p
+t, p
+o
+t
+m
+j, g
+n
+o
+f, l
+f, m
+n, f
+w, a
+h
+b
+o
+t, o
+t, w, s
+t, d
+n
+a
+t
+a
+t, o
+w, i
+h
+w, i
+s, i
+s
+t
+t, m
+h, t
+n, j
+t, m
+t, i
+s, a
+t, w
+t
+t
+a
+y, i
+i
+y, a, k
+t
+y
+b, c
+t, a
+c, s
+m
+b, t
+h
+i
+s
+g
+w, f
+l
+w
+w, m, s
+t
+t, f, a
+t, w, m
+r, m
+d
+h
+v
+t, g
+p
+t
+c
+t
+m
+i
+s
+t, f
+h, p
+f, s
+m
+s
+n
+t, m, i
+w, a
+b
+w, m, a
+s, a
+m, s
+t, m
+t, s
+a
+s
+t
+s
+t, w, s, o
+m, l
+s, a
+y, d
+y
+h, t
+t, g
+t, o
+y, w, t
+m, a, i
+b, m
+w
+i
+a, i
+w
+m
+t
+t, c
+h
+y, m
+w, s
+m, o
+t, m
+t, m, i
+y
+t, a, p
+w, c, y
+m
+w
+y
+a
+i
+i
+t, m, b
+t, m
+b
+s
+b
+n, t
+t, c
+b, d, a
+t, m
+n, l
+t
+t
+s
+t, s
+n, s, i
+t
+a
+t, e, o
+h
+o
+w
+i
+t, m
+t, a
+m
+w
+t, m, o
+d, a
+w, i
+t, o
+t
+w, a
+a
+g
+y, t
+w, f
+w
+h, m
+t, h
+s, w, a
+t, m, a
+s
+y
+o, i
+a
+m, s
+b, a
+s, i
+t, w, b
+t, i
+w, s
+t, o
+t
+t, f
+f, o, p
+f, m
+s
+t
+m, a
+o
+t, c
+b
+t
+t, f, o
+t, w
+c, w
+c, w
+b, o
+t, s
+m, a
+s
+b, s
+n, i
+h
+s, a
+f, a
+s
+f
+b, a
+h, s, a
+c, o
+h, a
+t, h
+h, f
+h, a
+h, i
+o, i
+a
+t, h
+b, a
+m
+t, p
+m
+t, w
+h, l
+t, b, h
+s, a
+h, m
+m
+w
+h
+m
+h, t
+m
+c, a
+w, g
+h
+n
+y
+m, a
+t, s
+y, c, s
+y, g
+y
+t, w, m
+h
+h
+d, a
+n, k, i
+a
+b, a
+a, k
+a, k
+w
+f
+t, f
+t, b
+s
+i
+i
+b, a
+t, w, d
+a
+t, b
+t
+f
+m, a
+d, a
+s
+a
+t, a
+a
+t, i
+t
+t
+w, s
+h
+t, a
+h
+a
+s
+t, a
+y, w
+h
+b, h
+t, f
+h
+y, c, a
+t, i, h
+j, w, a
+t, s
+s
+n, s, t
+w, d, s
+t, h
+w, f
+e, s
+s, o
+s
+m, i
+t, c
+a
+t, m
+s, a
+t
+m
+e
+a
+t
+o
+t, a
+t, s
+i, p
+a
+w, m
+y, g
+y, c, t
+t, l
+b, t
+h, s
+w
+h
+i
+y
+d, a
+y
+t, s, a
+l
+s, a
+t
+h, o
+c
+t
+w
+t
+a, i
+n
+n
+l
+h
+t
+i
+t
+m, a, i
+t
+w, m
+f, g
+t
+t, m
+w
+w
+t
+t, m
+t, f
+v
+h, t
+t, o
+t
+n, b, g
+a, i
+i
+t, a
+l
+t
+a
+t, n
+c
+t, o
+w
+b, a
+b
+h, i
+t, w, m
+t, m
+w, a
+g
+b
+b
+n, b, t
+t, b
+y, c
+a
+t, m
+i
+w, f
+f, a
+w, d, s
+s
+t
+t, f, a, l
+t, c
+b
+b, l
+t
+t
+t, s
+w, a, i
+t, m
+m
+t
+h
+b
+t, m, a
+m, s
+t, i
+m, s
+w
+t
+  Number of Alliterations: 704
+
