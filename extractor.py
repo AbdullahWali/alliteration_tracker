@@ -1,5 +1,6 @@
 import os
 import re
+import sys
 
 class Extractable(object):
 
@@ -15,6 +16,8 @@ class Extractable(object):
 
     # Read file from a .txt file stored in a folder called 'plays'
     def read_content_from_file(self, file_path):
+        if sys.platform in ["linux", "linux2", "darwin"]:
+            file_path = file_path.replace("\\", "/")
         if os.path.isfile(file_path):
             with open(file_path, 'r') as file_reader:
                 self.content = file_reader.read()
